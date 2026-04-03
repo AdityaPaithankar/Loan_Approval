@@ -22,7 +22,7 @@ This project predicts whether a loan should be approved or rejected using Machin
 - Streamlit
 
 ## 📸 Screenshots
-(Add app screenshots here)
+<img width="1918" height="1014" alt="image" src="https://github.com/user-attachments/assets/a50710e3-b3ff-4d9a-b879-27b979b8b194" />
 
 ## ⚡ How to Run
 ```bash
