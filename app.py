@@ -152,3 +152,23 @@ if st.button("Predict"):
 
     except:
         pass
+
+
+footer = """
+<style>
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #111827;
+    text-align: center;
+    padding: 10px;
+}
+</style>
+
+<div class="footer">
+    Copyright by Aditya Paithankar
+</div>
+"""
+
+st.markdown(footer, unsafe_allow_html=True)
